@@ -1,0 +1,10 @@
+ - C# permite a construção de inúmeras aplicações (captura, análise e processamento de dados, aplicações Web dinâmicas, jogos, aplicações científicas e financeiras, aplicações baseadas em nuvem, aplicações mobile)
+
+ - Compilar e executar código C#: 
+ $ sudo apt install mono-complete
+ $ mcs -out:hello.exe hello-world.cs
+ $ mono hello.exe # ou ./hello.exe
+
+ - Em C#, importa se as palavras são escritas com letras maiúsculas ou minúsculas! Então, escrever 'console.WriteLine("");' está errado e será acusado erro: The name 'console' does not exist in the current context
+
+ - 
